@@ -1,1 +1,2 @@
 Hello Worl.
+Les information contenus dans ce fichier decrives le projet.
